@@ -97,10 +97,10 @@ Glavna datoteka koja pokreće program kroz funkcije:
 ## 2. Čišćenje i transformacija prikupljenih podataka
 
 Kada su prikupljene sve informacije o člancima, pokreće se program [clean.py](scrape/clean.py) koji eliminira potencijalne članke duplikate te dodaje nove informacije na temelju tagova koji su kategorizirani u nekoliko skupina:
-- covid_related: tagovi koji su povezani uz COVID tematiku
-- vaccine_related: tagovi koji su povezani uz tematiku cijepljenja
-- anti_related: tagovi koji su povezani uz tematiku antimaskera/antivaksera
-- soj_related: tagovi koji su povezani uz tematiku novih sojeva
+- `covid_related`: tagovi koji su povezani uz COVID tematiku
+- `vaccine_related`: tagovi koji su povezani uz tematiku cijepljenja
+- `anti_related`: tagovi koji su povezani uz tematiku antimaskera/antivaksera
+- `soj_related`: tagovi koji su povezani uz tematiku novih sojeva
 
 Glavni je format koji se koristi kroz programe CSV, a u ovom se koraku podaci prenose u JSON format.
 
