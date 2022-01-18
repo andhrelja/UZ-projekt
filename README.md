@@ -16,7 +16,7 @@ Projektni zadatak stvoren je u sklopu kolegija Upravljanje znanjem, a sastoji se
    - koriste se metode prikupljanja podataka s web sjedišta
 2. Čišćenje i transformacija prikupljenih podataka
    - čiste se duplicirani i nepostojeći podaci
-   - očišćeni se skup podataka transformira sa svhrom stvaranja novih korisnih informacija
+   - očišćeni se skup podataka transformira sa svrhom stvaranja novih korisnih informacija
 3. Analiza podataka
    - analiziraju se trendovi o kojima odabrani portal izvještava
 
@@ -54,7 +54,7 @@ Program stvoren sa svrhom prikupljanja informacija o člancima dostupan je u dir
 
 #### api.py
 
-Klasa `GETRequest` zadužena za manipuliranje GET zahtjevima na webu.
+Klasa `GETRequest` zadužena za manipuliranje GET zahtjevima na webu.  
 Atributi:
 - `url`: URL koji sadrži strukturirane ili nestrukturirane podatke
 - `params`: parametri GET zahtjeva (poput `page`, `per_page` i sl)
@@ -65,7 +65,7 @@ Metode:
 
 #### fileio.py
 
-Klasa `FileIO` zadužena za manipuliranje čitanjem/zapisivanjem u lokalne datoteke.
+Klasa `FileIO` zadužena za manipuliranje čitanjem/zapisivanjem u lokalne datoteke.  
 Atributi:
 - `dirname`: naziv direktorija datoteke
 - `filename`: naziv datoteke
