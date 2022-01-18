@@ -70,10 +70,10 @@ Atributi:
 - `dirname`: naziv direktorija datoteke
 - `filename`: naziv datoteke
 - `filetype`: tip datoteke (CSV/JSON)
-
-Metode:
 - `num_lines`: broj linija u datoteci
 - `existing_ids`: dohvaćanje ID-eva u datoteci
+
+Metode:
 - `get_last_load_date`: dohvaćanje najnovijeg datuma u datoteci
 - `exclude_lines`: eliminiranje postojećih ID-eva u datoteci (koristi se kod zahtjevanja sadržaja s web-a)
 - `write_content`: zapisivanje sadržaja u datoteku (ako datoteka postoji, sadržaj se nadopunjuje (append), inače se datoteka stvara (write))
