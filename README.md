@@ -106,4 +106,4 @@ Glavni je format koji se koristi kroz programe CSV, a u ovom se koraku podaci pr
 
 ## 3. Analiza podataka
 
-Dokumentacija analize dostupna je unutar Python bilježnice (notebook-a) na [analyse\N1Info.ipynb](analyse\N1Info.ipynb).
+Dokumentacija analize dostupna je unutar Python bilježnice (notebook-a) na [analyse/N1Info.ipynb](analyse/N1Info.ipynb).
