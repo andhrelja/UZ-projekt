@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-scrape/data/
+#scrape/data/
 
 # C extensions
 *.so

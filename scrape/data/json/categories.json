@@ -1,0 +1,632 @@
+[
+  {
+    "id": 260887,
+    "name": "Anketa",
+    "description": "",
+    "slug": "",
+    "count": 89,
+    "portal_link": "https://hr.n1info.com/category/anketa/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260887",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260887"
+  },
+  {
+    "id": 260847,
+    "name": "Auto",
+    "description": "",
+    "slug": "",
+    "count": 1032,
+    "portal_link": "https://hr.n1info.com/category/auto/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260847",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260847"
+  },
+  {
+    "id": 260797,
+    "name": "Biografije",
+    "description": "",
+    "slug": "",
+    "count": 3,
+    "portal_link": "https://hr.n1info.com/category/kolumne/biografije/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260797",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260797"
+  },
+  {
+    "id": 260682,
+    "name": "Biznis",
+    "description": "",
+    "slug": "",
+    "count": 16383,
+    "portal_link": "https://hr.n1info.com/category/biznis/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260682",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260682"
+  },
+  {
+    "id": 260812,
+    "name": "Boris Dežulović",
+    "description": "",
+    "slug": "",
+    "count": 284,
+    "portal_link": "https://hr.n1info.com/category/kolumne/boris-dezulovic/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260812",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260812"
+  },
+  {
+    "id": 260762,
+    "name": "Breaking news LIVE",
+    "description": "",
+    "slug": "",
+    "count": 0,
+    "portal_link": "https://hr.n1info.com/category/video/breaking-news-live/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260762",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260762"
+  },
+  {
+    "id": 291112,
+    "name": "Budućnost Europe",
+    "description": "",
+    "slug": "",
+    "count": 42,
+    "portal_link": "https://hr.n1info.com/category/buducnost-europe/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=291112",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/291112"
+  },
+  {
+    "id": 260872,
+    "name": "Bussiness class promo",
+    "description": "",
+    "slug": "",
+    "count": 24,
+    "portal_link": "https://hr.n1info.com/category/bussiness-class-promo/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260872",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260872"
+  },
+  {
+    "id": 260772,
+    "name": "Bussiness klasa",
+    "description": "",
+    "slug": "",
+    "count": 3,
+    "portal_link": "https://hr.n1info.com/category/video/bussiness-klasa/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260772",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260772"
+  },
+  {
+    "id": 260932,
+    "name": "Cooking",
+    "description": "",
+    "slug": "",
+    "count": 1144,
+    "portal_link": "https://hr.n1info.com/category/cooking/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260932",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260932"
+  },
+  {
+    "id": 260822,
+    "name": "Crna kronika",
+    "description": "",
+    "slug": "",
+    "count": 3479,
+    "portal_link": "https://hr.n1info.com/category/crna-kronika/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260822",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260822"
+  },
+  {
+    "id": 260767,
+    "name": "Crvena linija",
+    "description": "",
+    "slug": "",
+    "count": 166,
+    "portal_link": "https://hr.n1info.com/category/video/crvena-linija/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260767",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260767"
+  },
+  {
+    "id": 260652,
+    "name": "Default",
+    "description": "",
+    "slug": "",
+    "count": 11,
+    "portal_link": "https://hr.n1info.com/category/default/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260652",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260652"
+  },
+  {
+    "id": 260897,
+    "name": "Dnevnik",
+    "description": "",
+    "slug": "",
+    "count": 2211,
+    "portal_link": "https://hr.n1info.com/category/video/dnevnik/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260897",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260897"
+  },
+  {
+    "id": 260802,
+    "name": "Draža Petrović",
+    "description": "",
+    "slug": "",
+    "count": 60,
+    "portal_link": "https://hr.n1info.com/category/kolumne/draza-petrovic/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260802",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260802"
+  },
+  {
+    "id": 260807,
+    "name": "Emir Imamović Pirke",
+    "description": "",
+    "slug": "",
+    "count": 49,
+    "portal_link": "https://hr.n1info.com/category/kolumne/emir-imamovic-pirke/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260807",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260807"
+  },
+  {
+    "id": 260862,
+    "name": "ENGLISH",
+    "description": "",
+    "slug": "",
+    "count": 3,
+    "portal_link": "https://hr.n1info.com/category/english/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260862",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260862"
+  },
+  {
+    "id": 260912,
+    "name": "FOOTER aplication",
+    "description": "",
+    "slug": "",
+    "count": 5,
+    "portal_link": "https://hr.n1info.com/category/footer-aplication/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260912",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260912"
+  },
+  {
+    "id": 260707,
+    "name": "Formula 1",
+    "description": "",
+    "slug": "",
+    "count": 375,
+    "portal_link": "https://hr.n1info.com/category/sport-klub/formula-1/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260707",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260707"
+  },
+  {
+    "id": 260857,
+    "name": "Foto",
+    "description": "",
+    "slug": "",
+    "count": 3061,
+    "portal_link": "https://hr.n1info.com/category/foto/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260857",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260857"
+  },
+  {
+    "id": 260942,
+    "name": "Global Fokus",
+    "description": "",
+    "slug": "",
+    "count": 11,
+    "portal_link": "https://hr.n1info.com/category/video/global-fokus/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260942",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260942"
+  },
+  {
+    "id": 260907,
+    "name": "HR",
+    "description": "",
+    "slug": "",
+    "count": 5,
+    "portal_link": "https://hr.n1info.com/category/hr/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260907",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260907"
+  },
+  {
+    "id": 260902,
+    "name": "Hrvatska",
+    "description": "",
+    "slug": "",
+    "count": 0,
+    "portal_link": "https://hr.n1info.com/category/hrvatska/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260902",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260902"
+  },
+  {
+    "id": 260672,
+    "name": "Impuls",
+    "description": "",
+    "slug": "",
+    "count": 1,
+    "portal_link": "https://hr.n1info.com/category/impuls/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260672",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260672"
+  },
+  {
+    "id": 260737,
+    "name": "Info",
+    "description": "",
+    "slug": "",
+    "count": 25457,
+    "portal_link": "https://hr.n1info.com/category/video/info/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260737",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260737"
+  },
+  {
+    "id": 260947,
+    "name": "Izvan okvira",
+    "description": "",
+    "slug": "",
+    "count": 52,
+    "portal_link": "https://hr.n1info.com/category/video/izvan-okvira/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260947",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260947"
+  },
+  {
+    "id": 283243,
+    "name": "Klimatske promjene",
+    "description": "",
+    "slug": "",
+    "count": 280,
+    "portal_link": "https://hr.n1info.com/category/klimatske-promjene/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=283243",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/283243"
+  },
+  {
+    "id": 260787,
+    "name": "Kolumne",
+    "description": "",
+    "slug": "",
+    "count": 21,
+    "portal_link": "https://hr.n1info.com/category/kolumne/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260787",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260787"
+  },
+  {
+    "id": 260697,
+    "name": "Košarka",
+    "description": "",
+    "slug": "",
+    "count": 2851,
+    "portal_link": "https://hr.n1info.com/category/sport-klub/kosarka/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260697",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260697"
+  },
+  {
+    "id": 260792,
+    "name": "Kultura",
+    "description": "",
+    "slug": "",
+    "count": 2212,
+    "portal_link": "https://hr.n1info.com/category/kultura/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260792",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260792"
+  },
+  {
+    "id": 260827,
+    "name": "Lifestyle",
+    "description": "",
+    "slug": "",
+    "count": 14962,
+    "portal_link": "https://hr.n1info.com/category/lifestyle/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260827",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260827"
+  },
+  {
+    "id": 260852,
+    "name": "Ljubimci",
+    "description": "",
+    "slug": "",
+    "count": 215,
+    "portal_link": "https://hr.n1info.com/category/ljubimci/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260852",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260852"
+  },
+  {
+    "id": 260937,
+    "name": "Majka i dijete",
+    "description": "",
+    "slug": "",
+    "count": 110,
+    "portal_link": "https://hr.n1info.com/category/majka-i-dijete/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260937",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260937"
+  },
+  {
+    "id": 260712,
+    "name": "Moto GP",
+    "description": "",
+    "slug": "",
+    "count": 117,
+    "portal_link": "https://hr.n1info.com/category/sport-klub/motogp/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260712",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260712"
+  },
+  {
+    "id": 260927,
+    "name": "N1 INFO",
+    "description": "",
+    "slug": "",
+    "count": 2245,
+    "portal_link": "https://hr.n1info.com/category/video/n1-info/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260927",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260927"
+  },
+  {
+    "id": 283248,
+    "name": "N1 Komentar",
+    "description": "",
+    "slug": "",
+    "count": 110,
+    "portal_link": "https://hr.n1info.com/category/n1-komentar/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=283248",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/283248"
+  },
+  {
+    "id": 289843,
+    "name": "N1 specijal",
+    "description": "",
+    "slug": "",
+    "count": 42,
+    "portal_link": "https://hr.n1info.com/category/n1-specijal/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=289843",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/289843"
+  },
+  {
+    "id": 260917,
+    "name": "N1 Studio uživo",
+    "description": "",
+    "slug": "",
+    "count": 1421,
+    "portal_link": "https://hr.n1info.com/category/video/n1-studio-uzivo/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260917",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260917"
+  },
+  {
+    "id": 260867,
+    "name": "NEWS",
+    "description": "",
+    "slug": "",
+    "count": 15278,
+    "portal_link": "https://hr.n1info.com/category/english/news/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260867",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260867"
+  },
+  {
+    "id": 260922,
+    "name": "Newsroom",
+    "description": "",
+    "slug": "",
+    "count": 927,
+    "portal_link": "https://hr.n1info.com/category/video/newsroom/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260922",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260922"
+  },
+  {
+    "id": 260692,
+    "name": "Nogomet",
+    "description": "",
+    "slug": "",
+    "count": 17725,
+    "portal_link": "https://hr.n1info.com/category/sport-klub/nogomet/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260692",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260692"
+  },
+  {
+    "id": 260757,
+    "name": "Novi dan",
+    "description": "",
+    "slug": "",
+    "count": 974,
+    "portal_link": "https://hr.n1info.com/category/video/novi-dan/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260757",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260757"
+  },
+  {
+    "id": 260717,
+    "name": "Ostali sportovi",
+    "description": "",
+    "slug": "",
+    "count": 4013,
+    "portal_link": "https://hr.n1info.com/category/sport-klub/ostali-sportovi/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260717",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260717"
+  },
+  {
+    "id": 260747,
+    "name": "Ostalo",
+    "description": "",
+    "slug": "",
+    "count": 628,
+    "portal_link": "https://hr.n1info.com/category/video/ostalo/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260747",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260747"
+  },
+  {
+    "id": 260752,
+    "name": "Pressing",
+    "description": "",
+    "slug": "",
+    "count": 564,
+    "portal_link": "https://hr.n1info.com/category/video/pressing/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260752",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260752"
+  },
+  {
+    "id": 260777,
+    "name": "Prime time",
+    "description": "",
+    "slug": "",
+    "count": 222,
+    "portal_link": "https://hr.n1info.com/category/video/prime-time/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260777",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260777"
+  },
+  {
+    "id": 260722,
+    "name": "Regija",
+    "description": "",
+    "slug": "",
+    "count": 13066,
+    "portal_link": "https://hr.n1info.com/category/regija/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260722",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260722"
+  },
+  {
+    "id": 260832,
+    "name": "Showbiz",
+    "description": "",
+    "slug": "",
+    "count": 5730,
+    "portal_link": "https://hr.n1info.com/category/showbiz/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260832",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260832"
+  },
+  {
+    "id": 260742,
+    "name": "Sport",
+    "description": "",
+    "slug": "",
+    "count": 221,
+    "portal_link": "https://hr.n1info.com/category/video/sport/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260742",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260742"
+  },
+  {
+    "id": 260687,
+    "name": "Sport Klub",
+    "description": "",
+    "slug": "",
+    "count": 826,
+    "portal_link": "https://hr.n1info.com/category/sport-klub/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260687",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260687"
+  },
+  {
+    "id": 260727,
+    "name": "Svijet",
+    "description": "",
+    "slug": "",
+    "count": 49827,
+    "portal_link": "https://hr.n1info.com/category/svijet/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260727",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260727"
+  },
+  {
+    "id": 260842,
+    "name": "Tehnologija",
+    "description": "",
+    "slug": "",
+    "count": 1662,
+    "portal_link": "https://hr.n1info.com/category/tehnologija/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260842",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260842"
+  },
+  {
+    "id": 260702,
+    "name": "Tenis",
+    "description": "",
+    "slug": "",
+    "count": 3513,
+    "portal_link": "https://hr.n1info.com/category/sport-klub/tenis/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260702",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260702"
+  },
+  {
+    "id": 260782,
+    "name": "Točka na tjedan",
+    "description": "",
+    "slug": "",
+    "count": 379,
+    "portal_link": "https://hr.n1info.com/category/video/tocka-na-tjedan/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260782",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260782"
+  },
+  {
+    "id": 260877,
+    "name": "TV lica",
+    "description": "",
+    "slug": "",
+    "count": 18,
+    "portal_link": "https://hr.n1info.com/category/tv-lica/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260877",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260877"
+  },
+  {
+    "id": 260892,
+    "name": "TV LICA 2.0",
+    "description": "",
+    "slug": "",
+    "count": 88,
+    "portal_link": "https://hr.n1info.com/category/tv-lica-20/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260892",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260892"
+  },
+  {
+    "id": 1,
+    "name": "Uncategorized",
+    "description": "",
+    "slug": "",
+    "count": 19,
+    "portal_link": "https://hr.n1info.com/category/uncategorized/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=1",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/1"
+  },
+  {
+    "id": 260732,
+    "name": "Video",
+    "description": "",
+    "slug": "",
+    "count": 5272,
+    "portal_link": "https://hr.n1info.com/category/video/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260732",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260732"
+  },
+  {
+    "id": 260667,
+    "name": "Video strana",
+    "description": "",
+    "slug": "",
+    "count": 3792,
+    "portal_link": "https://hr.n1info.com/category/video-strana/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260667",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260667"
+  },
+  {
+    "id": 260677,
+    "name": "Vijesti",
+    "description": "",
+    "slug": "",
+    "count": 111722,
+    "portal_link": "https://hr.n1info.com/category/vijesti/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260677",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260677"
+  },
+  {
+    "id": 283247,
+    "name": "Vrijeme",
+    "description": "",
+    "slug": "",
+    "count": 129,
+    "portal_link": "https://hr.n1info.com/category/vrijeme/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=283247",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/283247"
+  },
+  {
+    "id": 260817,
+    "name": "Zdravlje",
+    "description": "",
+    "slug": "",
+    "count": 2766,
+    "portal_link": "https://hr.n1info.com/category/zdravlje/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260817",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260817"
+  },
+  {
+    "id": 260837,
+    "name": "Znanost",
+    "description": "",
+    "slug": "",
+    "count": 8222,
+    "portal_link": "https://hr.n1info.com/category/znanost/",
+    "posts_api_link": "https://hr.n1info.com/wp-json/wp/v2/posts?categories=260837",
+    "self_api_link": "https://hr.n1info.com/wp-json/wp/v2/categories/260837"
+  }
+]
